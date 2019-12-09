@@ -1,0 +1,9 @@
+Package: fintools
+Type: Package
+Title: What the package does Tools for financial issues
+Version: 1.0
+Date: 2015-12-10
+Author: Milton Martinez Luaces
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
